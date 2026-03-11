@@ -1,4 +1,4 @@
-import app from "./index.mjs"
+import app from "./api/index.mjs"
 // import db from "./config/db.mjs"
 
 

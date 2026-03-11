@@ -1,5 +1,6 @@
 import express from 'express'
 import Users from '../Model/users.mjs'
+import verifyToken from '../middlewares/verifyToken.mjs'
 
 const router=express.Router()
 
